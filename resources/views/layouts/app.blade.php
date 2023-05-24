@@ -17,7 +17,7 @@
 
 <body>
 
-    <main class="bg-primary container">
+    <main class="container">
         @yield('content')
     </main>
 
